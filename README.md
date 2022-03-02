@@ -19,5 +19,13 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l2ashdz&show_icons=true&locale=en&layout=compact" alt="l2ashdz" /></p>
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=L2AsHdz&show_icons=true&theme=dark&count-private=true" />
+</a>
 
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L2AsHdz&layout=compact&theme=dark&count-private=true" />
+</a>
+</p>
